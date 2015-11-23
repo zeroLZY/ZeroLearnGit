@@ -1,4 +1,7 @@
 Git is a software version control system.
-Git is a free software.
+Git is a software.
 
 Add more words to test.
+
+Add some words in vim.
+and check it.
