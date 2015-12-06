@@ -8,3 +8,5 @@ and check it.
 My stupid boss.
 
 Creating a new branch is quick at branch dev.
+
+Creating a new branch is quick AND simple.
