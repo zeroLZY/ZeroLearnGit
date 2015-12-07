@@ -1,5 +1,5 @@
-Git is a software version control system.
-Git is a software.
+Git is A software version control system.
+Git is A software.
 
 Add more words to test.
 
