@@ -15,3 +15,5 @@ to repaire some bugs on banch dev.
 
 checking stash function.
 Test github.com
+
+Edit by the Github website.
