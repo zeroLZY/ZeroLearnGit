@@ -14,3 +14,4 @@ Creating a new branch is quick and simple.
 to repaire some bugs on banch dev.
 
 checking stash function.
+Test github.com
